@@ -7,6 +7,7 @@ Trabalho Prático 2 da disciplina de Ciência de Dados - UFC 2021.1 feito no [Go
 Separamos este trabalho em **três** partes (três *Jupyter Notebooks*):
 
 - **Parte 1. Análise Exploratória & Pré-Processamento dos Dados**
+
   Nesta parte, visualizamos os dados e realizamos os pré-processamento deles de forma que sirvam de entrada para os modelos, seguindo os seguintes passos:
   1. Análise dos atributos.
   2. Busca de relações considerando vários atributos.
@@ -14,9 +15,11 @@ Separamos este trabalho em **três** partes (três *Jupyter Notebooks*):
   4. Conversão de atributos em uma forma adequada para os modelos.
 
 - **Parte 2. Tarefas de Regressão e Classificação**
+
   Aqui, criamos/otimizamos diferentes modelos para as tarefas de Regressão e Classificação. 
 
 - **Parte 3. Avaliação Final das Tarefas de Regressão e Classificação**
+
   Por fim, realizamos uma comparação final das tarefas de Regressão e Classificação. As considerações finais sobre todo o trabalho também estão nesta parte.
 
 ## Crie seu *environment*
