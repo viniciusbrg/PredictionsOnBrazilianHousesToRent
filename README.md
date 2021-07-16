@@ -8,7 +8,7 @@ Separamos este trabalho em **três** partes (três *Jupyter Notebooks*):
 
 - **Parte 1. Análise Exploratória & Pré-Processamento dos Dados**
 
-  Nesta parte, visualizamos os dados e realizamos os pré-processamento deles de forma que sirvam de entrada para os modelos, seguindo os seguintes passos:
+  Nesta parte, visualizamos os dados e realizamos o pré-processamento deles de forma que sirvam de entrada para os modelos, seguindo os seguintes passos:
   1. Análise dos atributos.
   2. Busca de relações considerando vários atributos.
   3. Remoção de atributos redundantes.
