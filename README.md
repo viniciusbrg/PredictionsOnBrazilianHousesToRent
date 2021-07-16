@@ -27,7 +27,7 @@ Separamos este trabalho em **três** partes (três *Jupyter Notebooks*):
 Use o [`virtualenv`](https://virtualenv.pypa.io/en/latest/) para criar um ambiente Python.
 
 ```bash
-virtualenv benv --python=python3
+virtualenv venv --python=python3
 
 source benv/bin/activate
 ```
