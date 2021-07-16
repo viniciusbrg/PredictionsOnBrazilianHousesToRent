@@ -1,0 +1,5 @@
+mean_test_root_mean_squared_error,mean_test_mean_squared_error,mean_test_mean_absolute_error,mean_test_r2_error,params
+3565.5367354336195,12715733.824721953,2191.28976208304,0.37825397674100664,"{'criterion': 'mse', 'splitter': 'best'}"
+3631.720592506857,13204987.747789487,2219.4376816860463,0.3539071408070675,"{'criterion': 'mae', 'splitter': 'best'}"
+3664.402989735841,13439467.249364099,2224.42726501938,0.34132884169047184,"{'criterion': 'mae', 'splitter': 'random'}"
+3683.6706946227337,13570603.285734775,2239.1153774298214,0.33581299671421655,"{'criterion': 'mse', 'splitter': 'random'}"
